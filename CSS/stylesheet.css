@@ -1,4 +1,8 @@
-body{background: rgb(104, 127, 255); font-family:"Comic Sans MS";}
-<a href="http://www.google.com"> Google </a>
-h1 {color:white; text-align:center;font-weight:bold;font-style:italic;}
-<h1> BAIS:3300 - Software Design </h1>
+body{background: rgb(102, 125, 255); font-family:"Roboto";}
+
+h1 {
+    color:white  ;
+    text-align:center;
+    font-weight:bold;}
+
+<a href="http://www.google.com"> Google </a> 

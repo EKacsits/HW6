@@ -1,8 +1,22 @@
 body{background: rgb(102, 125, 255); font-family:"Roboto";}
 
+#page_title {
+    color:white;
+    text-align: center;
+    font-weight: 3rem;
+    font-style: italic;}
+
 h1 {
     color:white  ;
-    text-align:center;
-    font-weight:bold;}
+    text-align:left;
+    font-size:2rem;}
+
+h2 {color:white;
+    text-align: left;}
+
+h3 {
+    text-align: left;}
+
+
 
 <a href="http://www.google.com"> Google </a> 

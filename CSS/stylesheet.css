@@ -6,12 +6,11 @@ html{
     font-size: 100%;
     line-height: 1;}
 
-img {
-    padding-bottom: 40px; }
 
 body{
     background: rgb(102, 125, 255); 
-    font-family:"Roboto";}
+    font-family:"Roboto";
+    margin-left: 15px;}
 
 #page_title {
     color:white;
@@ -31,7 +30,5 @@ h2 {
 
 h3 {
     text-align: left;}
-
-
 
 <a href="http://www.google.com"> Google </a> 
